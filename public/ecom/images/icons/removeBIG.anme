@@ -1,0 +1,974 @@
+application/x-vnd.lm_mohodoc
+version 46
+### Created in Moho version 10.1, © 1999-2014 Smith Micro Software, Inc.
+### Created: Fri Feb 22 15:23:09 2019
+#escaped_quotes
+
+### static values
+dimensions 1280 720
+frame_range 1 500
+fps 24
+back_color 234 234 234 255
+noise_grain 0
+allow_3d true
+depth_sort false
+distance_sort false
+depth_of_field false 2 1 0.024691
+global_render_style 0 0 0 true
+stereo_mode 0
+stereo_separation -1
+extra_swf_frame false
+color_palette ""
+soundtrack ""
+
+### styles
+
+### layer comps
+
+### document metadata
+metadata
+	"DocumentThumbnail"	"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"
+	"LM_Message_end"	"TRUE"
+
+### animated values
+camera_track
+[
+	keys 1
+		0 1 0.1 0.5 1 0 0 0 0 0 1.7321
+]
+camera_zoom
+[
+	keys 1
+		0 1 0.1 0.5 1 0 0 0 1
+]
+camera_roll
+[
+	keys 1
+		0 1 0.1 0.5 1 0 0 0 0
+]
+camera_pan_tilt
+[
+	keys 1
+		0 1 0.1 0.5 1 0 0 0 0 0
+]
+
+### layers
+layer_type 3
+{
+	### generic layer values
+	name "Remove Icon"
+	uuid "db15affb-2332-4dc8-8440-98d769a4775e"
+	quality_flags 4094
+	animated_layer_effects false
+	origin 0 0
+	parent_bone -1
+	visible true
+	render_only false
+	edit_only false
+	scale_compensation true
+	rotate_to_follow false
+	face_camera false
+	masking 0
+	mask_expansion false
+	blend_mode 0
+	camera_immune false
+	dof_immune false
+	metadata
+		"FlexiBoneSubset"	""
+		"FlexiBoneElbow"	"FALSE"
+		"LM_Message_end"	"TRUE"
+	timing_offset 0
+	follow_layer -1
+	follow_curve -1
+	follow_bending false
+	random_num 5003
+
+	### transforms
+	translation
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0.091227 -0.033174 0
+	]
+	scale
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 1.424801 1.424801 1.424801
+	]
+	rotation_x
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0
+	]
+	rotation_y
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0
+	]
+	rotation_z
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0
+	]
+	flip_h
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 false
+	]
+	flip_v
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 false
+	]
+	shear
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0 0 0
+	]
+	following
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0
+	]
+	physics_nudge
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0 0
+	]
+
+	### layer effects
+	visibility
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 true
+	]
+	blur
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0
+	]
+	alpha
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 1
+	]
+	ambient_occlusion
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0
+	]
+	threshold
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0
+	]
+
+	### layer shadow
+	layer_shadow_on
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 false
+	]
+	layer_shadow_angle
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 5.497787
+	]
+	layer_shadow_offset
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0.033333
+	]
+	layer_shadow_blur
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0.016667
+	]
+	layer_shadow_expansion
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0
+	]
+	layer_shadow_color
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0 0 0 0.501961
+	]
+	layer_shadow_noise_amp
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0
+	]
+	layer_shadow_noise_scale
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 64
+	]
+	layer_shadow_threshold
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 false
+	]
+
+	### layer shading
+	layer_shading_on
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 false
+	]
+	layer_shading_angle
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 5.497787
+	]
+	layer_shading_offset
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0.033333
+	]
+	layer_shading_blur
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0.066667
+	]
+	layer_shading_contraction
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0
+	]
+	layer_shading_color
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0 0 0 0.501961
+	]
+	layer_shading_noise_amp
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0
+	]
+	layer_shading_noise_scale
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 64
+	]
+	layer_shading_threshold
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 false
+	]
+
+	### perspective shadow
+	perspective_shadow_on
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 false
+	]
+	perspective_shadow_blur
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0.012346
+	]
+	perspective_shadow_scale
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 1
+	]
+	perspective_shadow_shear
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0
+	]
+	perspective_shadow_color
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0 0 0 0.501961
+	]
+	perspective_shadow_threshold
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 false
+	]
+
+	### motion blur
+	motion_blur_on
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 false
+	]
+	motion_blur_frames
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 2
+	]
+	motion_blur_skip
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 1
+	]
+	motion_blur_alpha_start
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0.3
+	]
+	motion_blur_alpha_end
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0.1
+	]
+	motion_blur_radius
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0.008333
+	]
+
+	### layer outline
+	layer_outline_on
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 false
+	]
+	layer_outline_width
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0.004115
+	]
+	layer_outline_color
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0 0 0 1
+	]
+
+	### layer color
+	layer_color_on
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 false
+	]
+	layer_color
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0.388235 0.709804 0.87451 0.501961
+	]
+	timeline_markers
+	[
+		keys 1
+			-1000000 1 0.1 0.5 1 0 0 0 ""
+	]
+
+	### physics
+	physics_enabled true
+	physics_static false
+	physics_sleeping false
+	physics_respawn 0
+	physics_velocity 0 0
+	physics_density 1
+	physics_friction 0.3
+	physics_restitution 0.5
+	physics_pivot false
+	physics_enable_motor false
+	physics_motor_speed 
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 3.141593
+	]
+	physics_motor_torque 10000
+	physics_force_field false
+	physics_force_field_vector 
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 0 1
+	]
+
+	### group layer values
+	expanded true
+	group_mask 0
+	depth_sort false
+	distance_sort false
+	layer_ordering
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 ""
+	]
+	enable_physics 
+	[
+		keys 1
+			0 1 0.1 0.5 1 0 0 0 false
+	]
+	gravity 0 -10
+	use_baked_physics false
+
+	### sub-layers
+	layer_type 1
+	{
+		### generic layer values
+		name "Layer 2"
+		uuid "c2cbe5e3-6784-4a1f-b022-0682f15bbbda"
+		quality_flags 4092
+		animated_layer_effects false
+		origin 0 0
+		parent_bone -1
+		visible true
+		render_only false
+		edit_only false
+		scale_compensation true
+		rotate_to_follow false
+		face_camera false
+		masking 0
+		mask_expansion false
+		blend_mode 0
+		camera_immune false
+		dof_immune false
+		metadata
+			"FlexiBoneSubset"	""
+			"FlexiBoneElbow"	"FALSE"
+			"LM_Message_end"	"TRUE"
+		timing_offset 0
+		follow_layer -1
+		follow_curve -1
+		follow_bending false
+		random_num 22585
+
+		### transforms
+		translation
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0 0 0
+		]
+		scale
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0.928791 0.928791 0.928791
+		]
+		rotation_x
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0
+		]
+		rotation_y
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0
+		]
+		rotation_z
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0
+		]
+		flip_h
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 false
+		]
+		flip_v
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 false
+		]
+		shear
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0 0 0
+		]
+		following
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0
+		]
+		physics_nudge
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0 0
+		]
+
+		### layer effects
+		visibility
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 true
+		]
+		blur
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0
+		]
+		alpha
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 1
+		]
+		ambient_occlusion
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0
+		]
+		threshold
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0
+		]
+
+		### layer shadow
+		layer_shadow_on
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 false
+		]
+		layer_shadow_angle
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 5.497787
+		]
+		layer_shadow_offset
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0.033333
+		]
+		layer_shadow_blur
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0.016667
+		]
+		layer_shadow_expansion
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0
+		]
+		layer_shadow_color
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0 0 0 0.501961
+		]
+		layer_shadow_noise_amp
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0
+		]
+		layer_shadow_noise_scale
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 64
+		]
+		layer_shadow_threshold
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 false
+		]
+
+		### layer shading
+		layer_shading_on
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 false
+		]
+		layer_shading_angle
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 5.497787
+		]
+		layer_shading_offset
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0.033333
+		]
+		layer_shading_blur
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0.066667
+		]
+		layer_shading_contraction
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0
+		]
+		layer_shading_color
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0 0 0 0.501961
+		]
+		layer_shading_noise_amp
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0
+		]
+		layer_shading_noise_scale
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 64
+		]
+		layer_shading_threshold
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 false
+		]
+
+		### perspective shadow
+		perspective_shadow_on
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 false
+		]
+		perspective_shadow_blur
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0.012346
+		]
+		perspective_shadow_scale
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 1
+		]
+		perspective_shadow_shear
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0
+		]
+		perspective_shadow_color
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0 0 0 0.501961
+		]
+		perspective_shadow_threshold
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 false
+		]
+
+		### motion blur
+		motion_blur_on
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 false
+		]
+		motion_blur_frames
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 2
+		]
+		motion_blur_skip
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 1
+		]
+		motion_blur_alpha_start
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0.3
+		]
+		motion_blur_alpha_end
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0.1
+		]
+		motion_blur_radius
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0.008333
+		]
+
+		### layer outline
+		layer_outline_on
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 false
+		]
+		layer_outline_width
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0.004115
+		]
+		layer_outline_color
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0 0 0 1
+		]
+
+		### layer color
+		layer_color_on
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 false
+		]
+		layer_color
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0.388235 0.709804 0.87451 0.501961
+		]
+		timeline_markers
+		[
+			keys 1
+				-1000000 1 0.1 0.5 1 0 0 0 ""
+		]
+
+		### physics
+		physics_enabled true
+		physics_static false
+		physics_sleeping false
+		physics_respawn 0
+		physics_velocity 0 0
+		physics_density 1
+		physics_friction 0.3
+		physics_restitution 0.5
+		physics_pivot false
+		physics_enable_motor false
+		physics_motor_speed 
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 3.141593
+		]
+		physics_motor_torque 10000
+		physics_force_field false
+		physics_force_field_vector 
+		[
+			keys 1
+				0 1 0.1 0.5 1 0 0 0 0 1
+		]
+
+		### mesh layer values
+		noisy_shapes false
+		noisy_lines false
+		animated_noise false
+		extra_sketchy false
+		noise_amp 0.008333
+		noise_scale 0.066667
+		noise_interval 1
+		extra_lines 0
+		gap_filling false
+		exclude_lines_from_mask false
+		fill_texture ""
+		line_texture ""
+		3d_mode 0
+		3d_options 
+		[
+			3d_shading_mode 1
+			3d_shading_density 50
+			3d_shading_color 64 64 64 255
+			3d_silhouette_edges true
+			3d_material_edges true
+			3d_crease_edges true
+			3d_crease_angle 1.047198
+			3d_edge_extension 0
+			3d_backface_removal false
+			3d_reset_z false
+		]
+		mesh
+		[
+			curve_interpretation 1
+			points 6
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 -0.139882 0.694134
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 1
+				]
+				-2
+				false
+				1
+					0 0 
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 0.525219 0.029032
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 1
+				]
+				-2
+				false
+				1
+					0 1 
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 -0.139882 -0.63607
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 1
+				]
+				-2
+				false
+				1
+					0 2 
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 -0.804984 0.029032
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 1
+				]
+				-2
+				false
+				1
+					0 3 
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 -0.668991 0.034311
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 1
+				]
+				-2
+				true
+				1
+					1 0 
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 0.392005 0.034311
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 1
+				]
+				-2
+				true
+				1
+					1 1 
+			curves 2
+				4 true
+				-1 -1 16
+					0 true
+					[
+						keys 1
+							0 1 0.1 0.5 1 0 0 0 0.391379
+					]
+					1 true
+					[
+						keys 1
+							0 1 0.1 0.5 1 0 0 0 0.391379
+					]
+					2 true
+					[
+						keys 1
+							0 1 0.1 0.5 1 0 0 0 0.391379
+					]
+					3 true
+					[
+						keys 1
+							0 1 0.1 0.5 1 0 0 0 0.391379
+					]
+					[
+						keys 1
+							0 1 0.1 0.5 1 0 0 0 -0.1
+					]
+					[
+						keys 1
+							0 1 0.1 0.5 1 0 0 0 1.1
+					]
+				2 false
+				-1 -1 16
+					4 true
+					[
+						keys 1
+							0 1 0.1 0.5 1 0 0 0 0.3
+					]
+					5 true
+					[
+						keys 1
+							0 1 0.1 0.5 1 0 0 0 0.3
+					]
+					[
+						keys 1
+							0 1 0.1 0.5 1 0 0 0 -0.1
+					]
+					[
+						keys 1
+							0 1 0.1 0.5 1 0 0 0 1.1
+					]
+			shapes 2
+				"" false true true true 
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 1
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 0
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 0 0
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 0.125
+				]
+					4
+						0 0 0
+						0 1 0
+						0 2 0
+						0 3 0
+					""
+						false
+						[
+							keys 1
+								0 1 0.1 0.5 1 0 0 0 0.87451 0.87451 0.87451 1
+						]
+						false 0.041667
+						false
+						[
+							keys 1
+								0 1 0.1 0.5 1 0 0 0 0.517647 0.517647 0.517647 1
+						]
+						1
+						""
+						false
+						6.283185
+						0.25
+						true
+						true
+						-1
+						-1
+						-1
+					""
+					""
+
+				"" true false true false 
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 1
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 0
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 0 0
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 0.125
+				]
+					1
+						1 0 1
+					""
+						false
+						[
+							keys 1
+								0 1 0.1 0.5 1 0 0 0 1 0 0 1
+						]
+						false 0.041667
+						false
+						[
+							keys 1
+								0 1 0.1 0.5 1 0 0 0 0.74902 0.141176 0.160784 1
+						]
+						1
+						""
+						false
+						6.283185
+						0.25
+						true
+						true
+						-1
+						-1
+						-1
+					""
+					""
+
+			groups 0
+		]
+	}
+}

@@ -1,0 +1,1 @@
+<p>Hi, <strong>{{ $name }}</strong></p><br><p><strong>Login details:</strong></p><p>Name: {{ $name }}</p><p>Email: {{ $email }}</p><p>Password: {{ $password }}</p><p>Website: <a href="{{ $site_url }}" target="_blank">{{ $site_url }}</a></p><p>Thanks & Regards,</p><p>Maurice</p>

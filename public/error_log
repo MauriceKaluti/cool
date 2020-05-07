@@ -1,0 +1,4 @@
+[21-Dec-2018 18:42:39 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in /home/carmelte/public_html/conceptscool/vendor/symfony/routing/RouteCompiler.php on line 175
+[23-Dec-2018 07:21:15 UTC] PHP Fatal error:  Cannot use [] for reading in /home/carmelte/public_html/conceptscool/app/Http/Controllers/CartController.php on line 64
+[19-Jan-2019 15:32:00 UTC] PHP Fatal error:  Cannot redeclare CreatePasswordResetsTable::up() in /home/carmelte/public_html/conceptscool/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 24
+[20-Jan-2019 10:06:19 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/carmelte/public_html/conceptscool/vendor/composer/autoload_static.php on line 356
